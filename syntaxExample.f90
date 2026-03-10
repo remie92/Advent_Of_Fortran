@@ -1,4 +1,4 @@
-program test
+program day_1
     INTEGER :: first=1
     INTEGER :: second=1
     INTEGER :: old_second=1
@@ -11,4 +11,4 @@ program test
 
     END DO LOOP
     
-end program test
+end program day_1
