@@ -85,7 +85,7 @@ program test
     print *,"Puzzle1:", counter,"Puzzle2: ",counter2
 
      CALL CPU_TIME(finish)
-    PRINT '("Time = ", F6.3, " seconds.")', finish - start
+    PRINT '("Time Day 1 = ", F6.3, " seconds.")', finish - start
 
     
 end program test
