@@ -1,0 +1,1 @@
+cd /mnt/c/Users/chris/OneDrive/Documenten/'Advent Of Code'/fortran/Advent_Of_Fortran/2025
