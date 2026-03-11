@@ -23,7 +23,7 @@ program test
         read(io, *,IOSTAT = IOS) a
 
                if (IOS==-1) then
-            print *,"STOP"
+            print *,"Finished Day 1"
             exit
         end if
 
